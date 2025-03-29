@@ -1,8 +1,8 @@
 <h1 align="center">Guacamoleboy</h1>
 <h3 align="center">Unique (slightly autistic) developer from Denmark.<br><br>I've been coding for 11 years now. I've done everything from Textures to Applications. I've also recently learned Blender which is a great skill to have for later I feel like.</h3>
 <br>
-- I’m currently Studying Computer Science in Denmark.
-- I love Guacamole. Hence the name!
+- I’m currently Studying Computer Science in Denmark.<br>
+- I love Guacamole. Hence the name!<br>
 - OCD / Perfectionist.
 
 <h3 align="left">Off the grid:</h3>
