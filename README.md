@@ -8,7 +8,7 @@
 
 <h3 align="left">Off the grid:</h3>
 <p align="left">
-I don't have any Social Media except Github & Disord.<br>Feel free to add me on either.
+I don't have any Social Media except Github & Disord.<br>Feel free to add me on either.<br>
 Guacamoleboy on Discord.<br>
 </p>
 
