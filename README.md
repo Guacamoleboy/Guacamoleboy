@@ -3,8 +3,8 @@
 <br>
 - I’m currently Studying Computer Science in Denmark.<br>
 - I love Guacamole. Hence the name!<br>
-- OCD / Perfectionist.
-- Currently learning Spanish!
+- OCD / Perfectionist.<br>
+- Currently learning Spanish! Ay dios mío patrón..
 
 <h3 align="left">Off the grid:</h3>
 <p align="left">
