@@ -8,7 +8,7 @@
 <h3 align="left">Off the grid:</h3>
 <p align="left">
 Feel free to add me on Discord if you have any questions. /Guacamoleboy<br><br>
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guac" height="30" width="40" />
+<a href="https://discord.gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="guac" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">What I've worked with an know:</h3>
